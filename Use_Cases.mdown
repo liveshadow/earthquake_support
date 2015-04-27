@@ -1,0 +1,17 @@
+#Earthquake Support App - Missing Persons
+
+##Use for a Missing Persons App
+
+###Purpose:
+The main focus of the Missing Persons App is to help family members and friends indicate missing friends and family.
+
+###Case 1:
+This app would allow family and friends to fill out a form with a picture, posting the name, age and last seen location of the individual.  
+
+###Case 2:
+The secondary use of the app is for first responders and emergency crews to help identify individuals.  Through the use of facial recognition on a cell phone with the website, the photo would run a search on all the photos already uploaded.  If an individual is found, it returns the results to the emergency crew and sends an automated message to the individual that posted the photo, that the individual was found with the geolocation of the emergency crew that took the picture.
+
+If a search comes back as unsuccessful, then the site will automatically add the photo of the person to the site, with unknown for name, and the geolocation of where the photo was taken.  This ties back into family and friends posting to the site.  They are able to search specifically first responder posts of unidentified individuals that have been found.
+
+###Case 3:
+The third use of the app is for crowd sourcing information.  Anybody can go on the site and search through the missing people and send the posters updates if they saw the individual.
