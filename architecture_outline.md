@@ -1,4 +1,4 @@
-Architecture outline:
+## Architecture outline:
 
 Use a facial recognition API or facial recognition software to analyse the pictures uploaded to the app.
 
