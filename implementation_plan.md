@@ -1,4 +1,4 @@
-Implementation plan:
+## Implementation plan:
 
 Milestone 1: create a database template and create forms to take in data such as a photo, name, age, last seen location, etc. and create a post for a missing person/found person.
 
